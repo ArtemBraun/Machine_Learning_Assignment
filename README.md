@@ -1,4 +1,4 @@
-# Practical Machine_Learning - Assignment
+# Practical Machine Learning - Assignment
 
 #### This Assignment is part of Practical Machine Learning Course by Coursera.
 
