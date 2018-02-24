@@ -6,4 +6,4 @@
   
 #### The goal of this project is to predict the manner in which participants did the exercise. This is the "classe" variable in the training set. 
 
-#### **Assignment can be accessed here**: https://artembraun.github.io/Machine_Learning_Course_Work/
+#### **Assignment can be accessed here**: https://artembraun.github.io/Machine_Learning_Assignment/
